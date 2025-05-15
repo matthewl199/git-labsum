@@ -83,4 +83,13 @@ commit 84287826433ff03d6cd27587dc9b45844231465e
 Author: Nasseef Abukamail <abukamai@ohio.edu>
 Date:   Mon May 6 10:07:31 2024 -0400
 
-Answer 9:
+Answer 9: On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+Answer 10: No, the changes were not updated to Github yet.
+
+Answer 11: There was an error because there is new work that was created non-locally
+
+Answer 12: Yes the changes were updated onto Github.
